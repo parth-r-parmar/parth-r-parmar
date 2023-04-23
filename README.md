@@ -4,7 +4,8 @@ I'm a full stack developer...
 
 ## 🛠 Skills
 
- - [Moleculer](https://moleculer.services/)
  - [React](https://reactjs.org/) & [Redux](https://redux.js.org/)
+ - [Moleculer](https://moleculer.services/)
+ - [Socket.io](https://socket.io/)
  - [MongoDB](https://www.mongodb.com/)
 
