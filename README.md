@@ -22,11 +22,7 @@
 
 ### Featured Project
 
-<a href="https://github.com/parth-r-parmar/ai-job-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parth-r-parmar&repo=ai-job-pipeline&theme=tokyonight&hide_border=true" alt="ai-job-pipeline"/>
-</a>
-
-**[ai-job-pipeline](https://github.com/parth-r-parmar/ai-job-pipeline)** — AI-powered job search automation
+**[ai-job-pipeline](https://github.com/parth-r-parmar/ai-job-pipeline)** — AI-powered job search automation &nbsp; ![Stars](https://img.shields.io/github/stars/parth-r-parmar/ai-job-pipeline?style=flat-square&color=06B6D4) ![License](https://img.shields.io/github/license/parth-r-parmar/ai-job-pipeline?style=flat-square&color=A855F7)
 
 > Scrapes LinkedIn, Internshala, Naukri, Indeed &rarr; Scores every job vs your resume with AI &rarr; Tailors your resume per job (JD keyword injection) &rarr; Generates ATS-friendly PDFs &rarr; Exports to formatted Excel
 
@@ -83,9 +79,11 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth-r-parmar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats"/>
-  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-r-parmar&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parth-r-parmar&theme=tokyonight" alt="profile summary"/>
 </p>
 
 ---
